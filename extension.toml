@@ -1,6 +1,6 @@
 id = "atomizer-theme"
 name = "Atomizer Theme"
-version = "0.0.1"
+version = "0.1.0"
 schema_version = 1
 authors = ["Aris Ripandi"]
 description = "Atomizer theme for Zed."
